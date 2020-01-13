@@ -1,0 +1,6 @@
+# comment
+
+*.js
+node_modules/
+assets/videos/
+*.mp4
