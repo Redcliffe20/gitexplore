@@ -5,3 +5,5 @@ threefunction-I have added unecessary function here.
 
 
 New line for master.
+
+Added a new function in our branch to check merging in git
