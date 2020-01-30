@@ -1,4 +1,4 @@
-onefunction-I have added a very important function here.
+onefunction-I have added a very very important function here.
 twofunction-I have added another very important function here.
 threefunction-I have added unecessary function here.
 
@@ -7,3 +7,5 @@ threefunction-I have added unecessary function here.
 New line for master.
 
 Added a new function in our branch to check merging in git
+
+Added a code for Sign UP.
