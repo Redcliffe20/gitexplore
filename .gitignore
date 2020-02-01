@@ -4,4 +4,4 @@
 node_modules/
 assets/videos/
 *.mp4
-!other.js
+!app78.js
